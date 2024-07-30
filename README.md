@@ -21,3 +21,7 @@ The ATS (Applicant Tracking System) Tracking System is a comprehensive solution 
 3>Database: MongoDB
 4>Authentication: JWT (JSON Web Token)
 5>Deployment: Docker, Kubernetes
+
+
+#Installation:
+poppler library (link to download : https://github.com/oschwartz10612/poppler-windows)
